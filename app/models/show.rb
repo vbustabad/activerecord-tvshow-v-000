@@ -18,6 +18,6 @@ class Show < ActiveRecord::Base
 
   def ratings_sum
     self.sum("rating")
-  end 
-  
+  end
+
 end
