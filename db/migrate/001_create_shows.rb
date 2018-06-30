@@ -9,4 +9,4 @@ class Show < ActiveRecord::Migration
     end
   end
 
-end 
+end
