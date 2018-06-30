@@ -8,5 +8,5 @@ class Show
       t.string :hometown
     end
   end
-  
+
 end 
